@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <layout name="android_notification_template_base">@android:layout/notification_template_base</layout>
+    <layout name="android_transient_notification">@android:layout/transient_notification</layout>
+    <layout name="android_always_use_checkbox">@android:layout/always_use_checkbox</layout>
+    <layout name="android_usb_storage_activity">@android:layout/usb_storage_activity</layout>
+    <layout name="android_preference_list_fragment">@android:layout/preference_list_fragment</layout>
+    <layout name="android_preference_header_item">@android:layout/preference_header_item</layout>
+    <layout name="android_list_menu_item_layout">@android:layout/list_menu_item_layout</layout>
+    <layout name="android_notification_template_big_base">@android:layout/notification_template_big_base</layout>
+    <layout name="android_notification_template_big_picture">@android:layout/notification_template_big_picture</layout>
+    <layout name="android_notification_template_big_text">@android:layout/notification_template_big_text</layout>
+    <layout name="android_notification_template_inbox">@android:layout/notification_template_inbox</layout>
+</resources>
