@@ -756,7 +756,7 @@
     <string name="new_pin2_hint_miui">新PIN2</string>
     <string name="new_pin_hint_miui">新PIN</string>
     <string name="not_connected_miui">未接通</string>
-    <string name="notification_ongoing_calling_format_miui">正在撥號(%s)</string>
+    <string name="notification_ongoing_calling_format_miui">正在撥號</string>
     <string name="number_format_error_message_miui">%s僅支持數字</string>
     <string name="number_type_jituan_miui">集團號</string>
     <string name="number_type_miui">號碼類型</string>

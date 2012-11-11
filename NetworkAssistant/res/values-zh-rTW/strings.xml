@@ -98,12 +98,6 @@
     <string name="retry">重試</string>
     <string name="sync_fail_notify_title">查詢失敗</string>
     <string name="sync_fail_notify_detail">未收到電信業者反饋，點擊重試</string>
-    <string name="traffic_package_widget_name">網路助手(1x4)</string>
-    <string name="traffic_widget_name">網路助手(1x2)</string>
-    <string name="widget_traffic_total">方案:%s</string>
-    <string name="widget_traffic_used_status">已用:%s</string>
-    <string name="today">本日</string>
-    <string name="this_month">本月</string>
     <string name="loading_app">正在拚命加載中…</string>
     <string name="cannot_find_sms_cmd">找不到簡訊指令</string>
     <string name="sms_template_match_fail">簡訊模板匹配失敗</string>
@@ -139,4 +133,7 @@
     <string name="carrier_settings_button">運營商設定</string>
     <string name="sync_traffic_no_cmd_title">沒有找到指令</string>
     <string name="sync_traffic_no_cmd_detail">沒有找到你所在地區與所設定的品牌的指令，可能是我們沒有收集到該資料，麻煩您去小米論壇提交下資訊：http://www.miui.com/forum-172-1.html，謝謝!</string>
+    <string name="version_label">版本號：</string>
+    <string name="sms_template_updated_label">"更新於: "</string>
+    <string name="unknown">未知</string>
 </resources>

@@ -66,6 +66,8 @@
     <string name="update_date">%1$s-%2$s-%3$s</string>
     <string name="version_label">Version:</string>
     <string name="share_button">Share</string>
+    <string name="update_info">Updates</string>
+    <string name="description_info">Description</string>
     <string name="install">Install</string>
     <string name="update">Update</string>
     <string name="installed">Installed</string>

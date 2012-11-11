@@ -3,7 +3,7 @@
     <string name="photoeditor_name">照相馆</string>
     <string name="loading_failure">无法加载照片</string>
     <string name="saving_failure">无法保存照片</string>
-    <string name="photo_saved">照片已保存到“%s”相册</string>
+    <string name="photo_saved">照片已保存到: %s</string>
     <string name="edited_photo_bucket_name">已修改</string>
     <string name="save_photo">要保存已修改的照片吗？</string>
     <string name="yes">是</string>
@@ -79,7 +79,14 @@
     <string name="set_image">应用为</string>
     <string name="camera_setas_wallpaper">壁纸</string>
     <string name="delete">删除</string>
-    <string name="confirm_delete">确认要删除 %s项吗？</string>
+    <string name="confirm_delete">确认要删除 %s吗？</string>
+    <string name="confirm_delete_album" formatted="false">确定要删除 %s个图册(包含 %s张图片)吗?</string>
+    <string name="confirm_delete_system_album">%s图册为系统图册, 确定删除吗?</string>
+    <string name="confirm_delete_folders_and_pictures">确定要删除 %s吗?</string>
+    <string name="confirm_delete_pictures">%s张图片</string>
+    <string name="confirm_delete_folders_including" formatted="false">%s个目录(包含 %s)</string>
+    <string name="confirm_delete_videos">%s个视频</string>
+    <string name="confirm_delete_including_null">0个文件</string>
     <string name="cancel">取消</string>
     <string name="share">分享</string>
     <string name="select_all">全选</string>

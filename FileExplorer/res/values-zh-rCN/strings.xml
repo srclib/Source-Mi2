@@ -102,14 +102,11 @@
     <string name="show_message">文件需要下载才可以打开</string>
     <string name="ui_main_progress_txt_open_file">正在下载...</string>
     <string name="networkView_notConnected">没有找到可用网络</string>
-    <string name="ui_main_toast_shareLink_err">生成文件外链失败</string>
-    <string name="ui_main_choose_title">选择发送方式</string>
-    <string name="ui_main_toast_shareLink_header">我通过小米网盘分享了《%1$s》,点击下面地址查看:</string>
     <string name="ui_main_toast_favorite_removed">收藏已取消</string>
     <string name="ui_main_toast_operation_failed">对%1$s的取消收藏操作失败。</string>
     <string name="user_guide">使用入门</string>
     <string name="user_guide_summary">告诉您如何使用网盘</string>
-    <string name="rename_failed">重命名《%1$s》失败</string>
+    <string name="rename_failed">重命名 %1$s 失败</string>
     <string name="rename_success">重命名《%1$s》成功</string>
     <string name="ui_bar_title_download">网盘 - 下载通知</string>
     <string name="ui_bar_txt_download_success">网盘 - 下载成功</string>
@@ -142,7 +139,7 @@
     <string name="no_tasks">任务列表为空</string>
     <string name="upload_items_detail_message">上传文件到网盘中...剩余%1$d个（%2$d%%）</string>
     <string name="download_items_detail_message">下载文件到SD卡中...剩余%1$d个（%2$d%%）</string>
-    <string name="create_new_folder_failed">新建《%1$s》文件夹失败</string>
+    <string name="create_new_folder_failed">新建 %1$s 文件夹失败</string>
     <string name="create_new_folder_succeeded">新建《%1$s》文件夹成功</string>
     <string name="slide_left_text">向左滑动页面</string>
     <string name="guide_copy_to_sdcard">把文件从SD卡复制粘贴到网盘中</string>
@@ -207,6 +204,7 @@ pan.xiaomi.com"</string>
     <string name="move_failed">剪切失败</string>
     <string name="copy_success">复制成功</string>
     <string name="copy_failed">复制失败</string>
+    <string name="delete_failed">删除失败</string>
     <string name="toast_file_not_can_read">该文件不可读</string>
     <string name="server_control_advanced_settings">高级设置</string>
     <string name="server_control_charset">传输编码</string>
@@ -225,4 +223,17 @@ pan.xiaomi.com"</string>
     <string name="ftp_username_hint">用户名</string>
     <string name="ftp_password_hint">密码</string>
     <string name="ftp_invalid_username_or_password">用户名或密码无效</string>
+    <string name="adding_upload_tasks">正在添加上传任务！</string>
+    <string name="clean_transh_box_desctiption">正在清空垃圾箱···</string>
+    <string name="create_new_folder_desctiption">正在新建文件夹···</string>
+    <string name="create_share_link_description">正在创建分享链接···</string>
+    <string name="delete_file_description">正在删除文件···</string>
+    <string name="load_data_from_local">正在加载数据，请稍候...</string>
+    <string name="move_file_description">正在移动文件···</string>
+    <string name="rename">重命名</string>
+    <string name="rename_description">正在重命名···</string>
+    <string name="share_link">分享链接</string>
+    <string name="share_link_failed">生成分享链接失败</string>
+    <string name="choose_send_type">选择发送方式</string>
+    <string name="download_link_completed">我通过网盘分享了 %1$s ,点击下面地址查看:</string>
 </resources>

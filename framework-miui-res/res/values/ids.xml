@@ -138,6 +138,55 @@
     <id name="android_big_text_content">@android:id/big_text_content</id>
     <id name="android_inbox">@android:id/inbox</id>
     <id name="android_inbox_more">@android:id/inbox_more</id>
+    <item type="id" name="buttonWebSearch" />
+    <item type="id" name="tag_page_scroll_effect" />
+    <item type="id" name="tag_editmode_token" />
+    <item type="id" name="tag_editmode_checkbox" />
+    <item type="id" name="tag_identification" />
+    <item type="id" name="shadow_background" />
+    <item type="id" name="primary_bar" />
+    <item type="id" name="primary_bar_mask" />
+    <item type="id" name="menu_container" />
+    <item type="id" name="miro_container" />
+    <item type="id" name="miro_content_container" />
+    <item type="id" name="miro_bottom_bar_container" />
+    <item type="id" name="miro_top_bar_container" />
+    <item type="id" name="motion_container" />
+    <item type="id" name="tab_container" />
+    <item type="id" name="view_pager" />
+    <item type="id" name="title_container" />
+    <item type="id" name="v5_title_bar_container" />
+    <item type="id" name="container" />
+    <item type="id" name="controlButtons" />
+    <item type="id" name="loadingMsg" />
+    <item type="id" name="loadingProgressBar" />
+    <item type="id" name="resourcesummary" />
+    <item type="id" name="v5_top_placeholder" />
+    <item type="id" name="v5_bottom_placeholder" />
+    <item type="id" name="v5_bottom_bar_top_line" />
+    <item type="id" name="v5_icon_menu_bar_primary_item" />
+    <item type="id" name="v5_icon_menu_bar_dim_container" />
+    <item type="id" name="v5_icon_menu_bar_primary_mask" />
+    <item type="id" name="v5_icon_menu_bar_primary_container" />
+    <item type="id" name="v5_icon_menu_bar_real_primary_container" />
+    <item type="id" name="v5_icon_menu_bar_secondary_container" />
+    <id name="android_parentPanel">@android:id/parentPanel</id>
+    <id name="android_topPanel">@android:id/topPanel</id>
+    <id name="android_title_template">@android:id/title_template</id>
+    <id name="android_icon">@android:id/icon</id>
+    <id name="android_contentPanel">@android:id/contentPanel</id>
+    <id name="android_scrollView">@android:id/scrollView</id>
+    <id name="android_message">@android:id/message</id>
+    <id name="android_customPanel">@android:id/customPanel</id>
+    <id name="android_custom">@android:id/custom</id>
+    <id name="android_buttonPanel">@android:id/buttonPanel</id>
+    <id name="android_button2">@android:id/button2</id>
+    <id name="android_button3">@android:id/button3</id>
+    <id name="android_button1">@android:id/button1</id>
+    <item type="id" name="number_progress_1" />
+    <item type="id" name="number_progress_2" />
+    <item type="id" name="number_progress_3" />
+    <item type="id" name="number_progress_percent" />
     <item type="id" name="emergencyCallButton_account">false</item>
     <item type="id" name="spacerTop_account">false</item>
     <item type="id" name="ok">false</item>
@@ -157,4 +206,5 @@
     <item type="id" name="tableRow6">false</item>
     <item type="id" name="ringtoneimage">false</item>
     <item type="id" name="author">false</item>
+    <item type="id" name="status_bar_toggle_sync_active">false</item>
 </resources>

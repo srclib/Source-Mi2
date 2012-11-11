@@ -102,9 +102,6 @@
     <string name="show_message">檔安需要下載才可以開啟</string>
     <string name="ui_main_progress_txt_open_file">下載中...</string>
     <string name="networkView_notConnected">沒有可用網路</string>
-    <string name="ui_main_toast_shareLink_err">生成檔案外部地址失敗</string>
-    <string name="ui_main_choose_title">選擇傳送方式</string>
-    <string name="ui_main_toast_shareLink_header">我通過小米網路空間分享了《%1$s》,點擊下面網址檢視:</string>
     <string name="ui_main_toast_favorite_removed">我的最愛已取消</string>
     <string name="ui_main_toast_operation_failed">对%1$s的取消我的最愛操作失敗。</string>
     <string name="user_guide">使用教學</string>
@@ -203,6 +200,7 @@ pan.xiaomi.com"</string>
     <string name="move_failed">剪下失敗</string>
     <string name="copy_success">複製成功</string>
     <string name="copy_failed">複製失敗</string>
+    <string name="delete_failed">刪除失敗</string>
     <string name="toast_file_not_can_read">該文件不可讀</string>
     <string name="server_control_advanced_settings">高級設定</string>
     <string name="server_control_charset">傳輸編碼</string>
@@ -221,4 +219,17 @@ pan.xiaomi.com"</string>
     <string name="ftp_username_hint">用戶名</string>
     <string name="ftp_password_hint">密码</string>
     <string name="ftp_invalid_username_or_password">用戶名或密碼無效</string>
+    <string name="adding_upload_tasks">正在添加上傳任務！</string>
+    <string name="clean_transh_box_desctiption">正在清理回收桶···</string>
+    <string name="create_new_folder_desctiption">正在新增資料夾···</string>
+    <string name="create_share_link_description">正在创建分享链接···</string>
+    <string name="delete_file_description">正在删除文件···</string>
+    <string name="load_data_from_local">正在加载数据，请稍候...</string>
+    <string name="move_file_description">正在移动文件···</string>
+    <string name="rename">重命名</string>
+    <string name="rename_description">正在重命名···</string>
+    <string name="share_link">生成檔案外部地址</string>
+    <string name="share_link_failed">生成檔案外部地址失敗</string>
+    <string name="choose_send_type">選擇傳送方式</string>
+    <string name="download_link_completed">我通過小米網路空間分享了《%1$s》,點擊下面網址檢視:</string>
 </resources>

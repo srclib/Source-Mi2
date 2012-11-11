@@ -27,6 +27,8 @@
     <string name="download_lyric_summary">不會再佔用太多流量，建議開啟</string>
     <string name="listen_to_music_online_settings">允許消耗流量聽在線音樂</string>
     <string name="listen_to_online_summary">可能產生高額流量費用，建議關閉</string>
+    <string name="correct_id3_settings">允許消耗流量校正歌曲資訊</string>
+    <string name="correct_id3_summary">可能產生較高流量費用，建議關閉</string>
     <string name="player_display_settings">播放器顯示</string>
     <string name="lyric_display_settings">顯示歌詞</string>
     <string name="lyric_display_summary">在播放介面顯示歌詞，建議開啟</string>
@@ -37,6 +39,8 @@
     <string name="lyric_and_album">詞圖相關</string>
     <string name="android_album_settings">使用內嵌專輯封面</string>
     <string name="android_album_summary">根據檔案名關聯，可能出現錯誤，建議關閉</string>
+    <string name="auto_correct_id3_settings">自動校正歌曲資訊</string>
+    <string name="auto_correct_id3_summary">使用百度聲紋演算，播放歌曲時校正該歌曲ID3資訊</string>
     <string name="music_filter">檔案過濾</string>
     <string name="filter_by_size">按大小過濾</string>
     <string name="filter_by_size_summary">可以迥濾掉一些過小的音樂檔案</string>
@@ -217,4 +221,11 @@
     <string name="detail_genre">流派：</string>
     <string name="detail_size">檔案大小：</string>
     <string name="detail_format">格式：</string>
+    <string name="correct_id3_by_internet">自動連網校正歌曲資訊(ID3)</string>
+    <string name="correct_id3_start">開始連網校正歌曲資訊(ID3)。</string>
+    <string name="correct_id3_success">歌曲資訊(ID3)已自動校正。</string>
+    <string name="correct_id3_failed">歌曲資訊(ID3)校正失敗。</string>
+    <string name="correct_id3_open_other_connect">請打開電信商網路校正歌曲資訊(ID3)設定。</string>
+    <string name="correct_id3_not_support">不支援該檔案類型的歌曲資訊(ID3)修改。</string>
+    <string name="batch_correct_id3_completed">批次校正歌曲資訊(ID3)完成。</string>
 </resources>

@@ -670,11 +670,6 @@
         <item>Normal Mode</item>
         <item>Power Saving Mode</item>
     </string-array>
-    <string-array name="power_mode_value">
-        <item>high</item>
-        <item>middle</item>
-        <item>low</item>
-    </string-array>
     <string-array name="msd_pc_system">
         <item>Windows XP or older versions</item>
         <item>Windows Vista or newer versions</item>

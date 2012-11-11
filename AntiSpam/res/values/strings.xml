@@ -68,6 +68,8 @@
     <string name="fw_call" formatted="false">Call time: %s (%d)</string>
     <string name="fw_import_blacklist">Import blacklist</string>
     <string name="fw_import_whitelist">Import whitelist</string>
+    <string name="fw_import_blacklist_confirm">%d numbers are selected, are you sure to import into blacklist?</string>
+    <string name="fw_import_whitelist_confirm">%d numbers are selected, are you sure to import into whitelist?</string>
     <string name="fw_blacklist_hint">Calls and messages are automatically blocked when added to blacklist</string>
     <string name="fw_whitelist_hint">Whitelisted members will not be blocked</string>
     <string name="fw_no_effect">Guard Mode is not enabled. Do you want to enable it?</string>

@@ -948,7 +948,7 @@ Try again or call customer service for more options."</string>
     <string name="new_pin2_hint_miui">New PIN2</string>
     <string name="new_pin_hint_miui">New PIN</string>
     <string name="not_connected_miui">Not connected</string>
-    <string name="notification_ongoing_calling_format_miui">Calling (%s)</string>
+    <string name="notification_ongoing_calling_format_miui">Calling</string>
     <string name="number_format_error_message_miui">%s Only supports numbers</string>
     <string name="number_type_jituan_miui">Group number</string>
     <string name="number_type_miui">Number type</string>
