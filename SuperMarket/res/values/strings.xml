@@ -11,14 +11,15 @@
     <string name="management_tag">More</string>
     <string name="hot_rank_tag">Hot</string>
     <string name="new_app_tag">New</string>
-    <string name="download_manager_tag">Download manager</string>
+    <string name="download_manager_tag">Downloads</string>
+    <string name="download_manager_tag_with_nonzero_downloads">Downloads(%1$s/%2$s)</string>
     <string name="menu_search">Search</string>
     <string name="menu_preferences">Settings</string>
     <string name="menu_login">Login</string>
     <string name="menu_logout">Logout</string>
     <string name="menu_account">My account</string>
     <string name="menu_install_all">Install all</string>
-    <string name="menu_download_manager">Download manager</string>
+    <string name="menu_download_manager">Downloads</string>
     <string name="menu_refresh">Refresh</string>
     <string name="quicksearchbox_description">Search market for apps</string>
     <string name="pref_title_auto_update_setting">Auto-update settings</string>
@@ -38,6 +39,8 @@
     <string name="pref_list_per_week">Weekly</string>
     <string name="pref_list_per_day">Daily</string>
     <string name="pref_title_use_staging">Use staging server</string>
+    <string name="clear_search_record_message">Do you want to clear search history</string>
+    <string name="result_of_clear_history">Search history has been cleared</string>
     <string name="no_comment">No comment</string>
     <string name="comment_sending">Sending comment...</string>
     <string name="comment_upload_failed">Comment send failed</string>

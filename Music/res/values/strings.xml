@@ -12,7 +12,7 @@
     <string name="cancel_sleep_mode">Cancel Sleep Timer</string>
     <string name="select_quit_time">Set timer to stop the player (in mins)</string>
     <string name="quit_warining">Player will stop playing after %d minute(s)</string>
-    <string name="refresh_media_db">Refesh</string>
+    <string name="refresh_media_db">Refresh</string>
     <string name="refresh_in_processing">Refreshing</string>
     <string name="refresh_finish">Refreshing completed</string>
     <string name="refresh_start">Refreshing started</string>

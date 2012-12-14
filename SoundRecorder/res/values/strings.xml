@@ -50,4 +50,5 @@
     <string name="dialog_warning">Warning</string>
     <string name="alert_message_delete_record">Do you want to delete selected record?</string>
     <string name="unknown_caller">Unknown caller</string>
+    <string name="record_saving">Saving record, please wait.</string>
 </resources>

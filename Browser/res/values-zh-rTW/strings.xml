@@ -354,11 +354,11 @@
     <string name="bookmark_to_readmodelist_saved">已儲存至閱讀清單並覆蓋原書籤。</string>
     <string name="bookmark_to_readmodelist_not_saved">無法儲存至閱讀清單書籤。</string>
     <string name="readmode_reach_last_page">已到達最後一頁</string>
-    <string name="share_link">分享鏈接</string>
+    <string name="share_link">分享連結</string>
     <string name="open_all_bookmarks">打開全部書籤</string>
     <string name="move_to_up_folder">移動到上一層</string>
-    <string name="tab_yellowpage">名站導航</string>
-    <string name="tab_quicklinks">快速鏈接</string>
+    <string name="tab_yellowpage">上網導航</string>
+    <string name="tab_quicklinks">快速連結</string>
     <string name="pref_content_night_read_mode">夜間模式</string>
     <string name="pref_exit_on_closing_last_tab_enabled_title">關閉標籤時退出</string>
     <string name="pref_exit_on_closing_last_tab_enabled_summary">選中設定在標籤瀏覽頁關閉最後一個標籤時退出瀏覽器，不選中則顯示主頁</string>
@@ -414,8 +414,10 @@
     <string name="tab_closed">已關閉標籤頁</string>
     <string name="search_cancel">取消</string>
     <string name="search_baidu">百度</string>
+    <string name="search_sogou">搜狗</string>
     <string name="search_google">Google</string>
     <string name="search_yahoo">Yahoo!</string>
     <string name="search_bing">Bing</string>
     <string name="MIUI_homepage">MIUI 首頁</string>
+    <string name="find_on_page">在頁面中尋找</string>
 </resources>

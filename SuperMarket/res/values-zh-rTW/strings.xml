@@ -11,14 +11,15 @@
     <string name="management_tag">管理</string>
     <string name="hot_rank_tag">熱門排行</string>
     <string name="new_app_tag">新品上線</string>
-    <string name="download_manager_tag">下載管理</string>
+    <string name="download_manager_tag">下載隊列</string>
+    <string name="download_manager_tag_with_nonzero_downloads">下載隊列(%1$s/%2$s)</string>
     <string name="menu_search">搜尋</string>
     <string name="menu_preferences">設定</string>
     <string name="menu_login">登錄</string>
     <string name="menu_logout">註銷</string>
     <string name="menu_account">我的帳號</string>
     <string name="menu_install_all">一鍵安裝</string>
-    <string name="menu_download_manager">下載管理</string>
+    <string name="menu_download_manager">下載隊列</string>
     <string name="menu_refresh">重新整理</string>
     <string name="quicksearchbox_description">搜尋應用商店中的應用</string>
     <string name="pref_title_auto_update_setting">自動更新設定</string>
@@ -38,6 +39,8 @@
     <string name="pref_list_per_week">每週通知</string>
     <string name="pref_list_per_day">每天通知</string>
     <string name="pref_title_use_staging">使用staging伺服器</string>
+    <string name="clear_search_record_message">是否清除歷史搜索記錄</string>
+    <string name="result_of_clear_history">歷史記錄已清除</string>
     <string name="no_comment">無評論資訊</string>
     <string name="comment_sending">正在發送評論...</string>
     <string name="comment_upload_failed">評論發送失敗了</string>

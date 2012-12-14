@@ -136,4 +136,8 @@
     <string name="version_label">版本號：</string>
     <string name="sms_template_updated_label">"更新於: "</string>
     <string name="unknown">未知</string>
+    <string name="overseas_unknown_traffic_hint">未知移動資料限制，要不要設定下？</string>
+    <string name="overseas_menu_traffic_settings">流量限制</string>
+    <string name="overseas_menu_traffic_adjust">手動校正</string>
+    <string name="about">關于</string>
 </resources>

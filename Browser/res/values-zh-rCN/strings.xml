@@ -357,7 +357,7 @@
     <string name="share_link">分享链接</string>
     <string name="open_all_bookmarks">打开全部书签</string>
     <string name="move_to_up_folder">移动到上一级</string>
-    <string name="tab_yellowpage">名站导航</string>
+    <string name="tab_yellowpage">上网导航</string>
     <string name="tab_quicklinks">快捷书签</string>
     <string name="pref_content_night_read_mode">夜间模式</string>
     <string name="pref_exit_on_closing_last_tab_enabled_title">关闭标签时退出</string>
@@ -414,8 +414,10 @@
     <string name="tab_closed">已关闭标签页</string>
     <string name="search_cancel">取消</string>
     <string name="search_baidu">百度</string>
+    <string name="search_sogou">搜狗</string>
     <string name="search_google">谷歌</string>
     <string name="search_yahoo">雅虎</string>
     <string name="search_bing">必应</string>
     <string name="MIUI_homepage">MIUI 首页</string>
+    <string name="find_on_page">在网页上查找</string>
 </resources>

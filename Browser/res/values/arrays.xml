@@ -886,6 +886,14 @@
         <item>BBC</item>
         <item>http://www.bbc.co.uk/</item>
     </string-array>
+    <string-array name="sogou">
+        <item>搜狗</item>
+        <item>sogou.com</item>
+        <item>http://wap.sogou.com/favicon.ico</item>
+        <item>http://wap.sogou.com/web/searchlist.jsp?keyword={searchTerms}&amp;amp;pid=xiaomiyidong</item>
+        <item>UTF-8</item>
+        <item>http://suggestion.baidu.com/su?p=3&amp;amp;wd={searchTerms}</item>
+    </string-array>
     <array name="bookmark_preloads_zh">
         <item>@raw/zh_favicon_xiaomi_bbs</item>
         <item>@raw/zh_thumb_xiaomi_bbs</item>

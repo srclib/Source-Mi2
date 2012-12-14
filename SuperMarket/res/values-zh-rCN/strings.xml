@@ -11,14 +11,15 @@
     <string name="management_tag">管理</string>
     <string name="hot_rank_tag">热门排行</string>
     <string name="new_app_tag">新品上线</string>
-    <string name="download_manager_tag">下载管理</string>
+    <string name="download_manager_tag">下载队列</string>
+    <string name="download_manager_tag_with_nonzero_downloads">下载队列(%1$s/%2$s)</string>
     <string name="menu_search">搜索</string>
     <string name="menu_preferences">设置</string>
     <string name="menu_login">登录</string>
     <string name="menu_logout">注销</string>
     <string name="menu_account">我的账户</string>
     <string name="menu_install_all">一键安装</string>
-    <string name="menu_download_manager">下载管理</string>
+    <string name="menu_download_manager">下载队列</string>
     <string name="menu_refresh">刷新</string>
     <string name="quicksearchbox_description">搜索应用商店中的应用</string>
     <string name="pref_title_auto_update_setting">自动更新设置</string>
@@ -38,6 +39,8 @@
     <string name="pref_list_per_week">每周提醒</string>
     <string name="pref_list_per_day">每天提醒</string>
     <string name="pref_title_use_staging">使用staging服务器</string>
+    <string name="clear_search_record_message">是否清除历史搜索记录</string>
+    <string name="result_of_clear_history">历史记录已清除</string>
     <string name="no_comment">无评论信息</string>
     <string name="comment_sending">正在发送评论...</string>
     <string name="comment_upload_failed">评论发送失败了</string>

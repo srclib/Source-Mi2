@@ -647,16 +647,59 @@
         <item>27</item>
         <item>34</item>
     </integer-array>
-    <string-array name="entries_dolby_control">
-        <item>Off</item>
-        <item>Music Mode</item>
-        <item>Movie Mode</item>
+    <array name="dolby_mode_entries">
+        <item>@string/dolby_mode_off</item>
+        <item>@string/dolby_mode_music</item>
+        <item>@string/dolby_mode_movie</item>
+    </array>
+    <array name="dolby_bassboost_ranks">
+        <item>@string/dolby_bassboost_low</item>
+        <item>@string/dolby_bassboost_normal</item>
+        <item>@string/dolby_bassboost_high</item>
+    </array>
+    <string-array name="dolby_bassboost_rank_valus">
+        <item>0</item>
+        <item>3</item>
+        <item>6</item>
     </string-array>
-    <string-array name="entryvalues_dolby_control">
-        <item>-1</item>
+    <array name="dolby_roomsize_ranks">
+        <item>@string/dolby_roomsize_low</item>
+        <item>@string/dolby_roomsize_normal</item>
+        <item>@string/dolby_roomsize_high</item>
+    </array>
+    <string-array name="dolby_roomsize_rank_valus">
         <item>0</item>
         <item>1</item>
+        <item>2</item>
     </string-array>
+    <string-array name="dolby_equalizer_preset_values">
+        <item>0,0,0,0,0,0,0</item>
+        <item>16,8,0,-8,0,8,16</item>
+        <item>0,0,-4,-8,-8,-4,0</item>
+        <item>-8,-20,4,12,8,8,8</item>
+        <item>4,0,0,-8,-4,0,0</item>
+        <item>16,4,-4,-4,4,4,4</item>
+        <item>16,-4,0,-8,0,-4,-4</item>
+        <item>4,0,-4,-8,0,4,8</item>
+        <item>16,4,-8,-4,-8,-4,0</item>
+        <item>0,-4,-4,-4,-8,-4,-8</item>
+        <item>16,12,-24,-24,-16,12,16</item>
+        <item>24,14,-20,6,12,16,8</item>
+    </string-array>
+    <array name="dolby_equalizer_preset_names">
+        <item>@string/dolby_eq_flat</item>
+        <item>@string/dolby_eq_rock</item>
+        <item>@string/dolby_eq_jazz</item>
+        <item>@string/dolby_eq_pop</item>
+        <item>@string/dolby_eq_classical</item>
+        <item>@string/dolby_eq_rb</item>
+        <item>@string/dolby_eq_hiphop</item>
+        <item>@string/dolby_eq_blues</item>
+        <item>@string/dolby_eq_electronic</item>
+        <item>@string/dolby_eq_country</item>
+        <item>@string/dolby_eq_dance</item>
+        <item>@string/dolby_eq_metal</item>
+    </array>
     <string-array name="wfd_status">
         <item>Device connected, creating session...</item>
         <item>Session created</item>
@@ -714,5 +757,14 @@ Computer will auto open and read phone data"</item>
     <string-array name="msd_install_status">
         <item>Install driver</item>
         <item>Already installed driver</item>
+    </string-array>
+    <string-array name="screen_color_title">
+        <item>Warm</item>
+        <item>Nature</item>
+        <item>Cool</item>
+    </string-array>
+    <string-array name="screen_saturation_title">
+        <item>Brilliant</item>
+        <item>Standard</item>
     </string-array>
 </resources>

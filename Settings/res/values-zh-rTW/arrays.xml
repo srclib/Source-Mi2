@@ -299,11 +299,6 @@
         <item>20秒</item>
         <item>總是打開</item>
     </string-array>
-    <string-array name="entries_dolby_control">
-        <item>關</item>
-        <item>音樂模式</item>
-        <item>電影模式</item>
-    </string-array>
     <string-array name="wfd_status">
         <item>正在建立服務中...</item>
         <item>服務已建立</item>
@@ -361,5 +356,14 @@
     <string-array name="msd_install_status">
         <item>安裝驅動程式</item>
         <item>我已安裝驅動程式</item>
+    </string-array>
+    <string-array name="screen_color_title">
+        <item>暖色</item>
+        <item>自然</item>
+        <item>冷色</item>
+    </string-array>
+    <string-array name="screen_saturation_title">
+        <item>鮮艷</item>
+        <item>標準</item>
     </string-array>
 </resources>

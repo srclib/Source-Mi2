@@ -65,7 +65,7 @@
     <string name="input_password_hint">請輸入帳號密碼</string>
     <string name="confirm">確定</string>
     <string name="alert_title_remove_account">刪除帳號</string>
-    <string name="remove_account_notice">帳號刪除後，您要如何處理手機上的簡訊、聯絡人、通話記錄和便利貼？</string>
+    <string name="remove_account_notice">帳號刪除後，您要如何處理手機上的簡訊和聯絡人？</string>
     <string name="data_keep_in_phone">保留在我的手機上</string>
     <string name="data_wipe_from_phone">從手機上刪除</string>
     <string name="login_notice">登錄中，請稍候</string>
@@ -113,9 +113,9 @@
     <string name="user_agreement_p5">"註冊帳戶即表示您同意遵守
 小米帳戶的"</string>
     <string name="skip_setup_account_title">跳過帳戶設置</string>
-    <string name="skip_setup_account_msg">使用小米帳戶可以同步備份短信、聯繫人、照片等各種手機數據。確認要跳過帳戶設置嗎？</string>
-    <string name="account_dspt">"小米帳戶可以同步備份您的短信、聯繫人、
-照片等各種手機數據"</string>
+    <string name="skip_setup_account_msg">使用小米帳戶可以同步備份簡訊、聯絡人、照片等各種手機數據。確認要跳過帳戶設置嗎？</string>
+    <string name="account_dspt">"小米帳戶可以同步備份您的簡訊、
+聯絡人、照片等各種手機數據"</string>
     <string name="title_payment">小米移動支付</string>
     <string name="label_order_name">商品名稱：</string>
     <string name="label_order_price">訂單金額：</string>
@@ -124,6 +124,7 @@
     <string name="password_error">請輸入您的登錄密碼</string>
     <string name="progress_creating">正在獲取訂單信息…</string>
     <string name="progress_loading">正在處理，請稍候…</string>
+    <string name="progress_connecting">鏈接中…</string>
     <string name="button_cancel">取消</string>
     <string name="button_retry">重試</string>
     <string name="button_pay">確認支付</string>
@@ -161,9 +162,9 @@
     <string name="recharge_denomination">%1$s人民幣</string>
     <string name="btn_recharge_large">立即充值</string>
     <string name="recharge_other">選擇其他支付方式</string>
-    <string name="alipay_picker_hint">請選擇充值米幣的金額：</string>
-    <string name="alipay_edit_hint">充值金額</string>
-    <string name="alipay_edit_unit">人民幣</string>
+    <string name="alipay_picker_hint">請選擇充值金額</string>
+    <string name="alipay_edit_hint">充值金額（人民幣）：</string>
+    <string name="alipay_edit_limit">單筆不超過500</string>
     <string name="progress_alipay_creating">正在創建支付寶訂單…</string>
     <string name="progress_alipay_installing">正在安裝支付寶安全控件…</string>
     <string name="progress_prepaid_creating">正在創建充值訂單…</string>
@@ -174,17 +175,26 @@
     <string name="prepaid_china_mobile">移動</string>
     <string name="prepaid_china_unicom">聯通</string>
     <string name="prepaid_china_telcom">電信</string>
-    <string name="prepaid_picker_hint">所選面值必須與充值卡實際面值壹致</string>
-    <string name="prepaid_number_edit_hint">充值卡卡號</string>
-    <string name="prepaid_password_edit_hint">充值卡密碼</string>
+    <string name="prepaid_picker_hint_1_1">1.</string>
+    <string name="prepaid_picker_hint_1_2">全部爲一次性充值，不支持分次；</string>
+    <string name="prepaid_picker_hint_2_1">2.</string>
+    <string name="prepaid_picker_hint_2_2_a">所選面值必須與充值卡實際面值保持一致，選擇錯誤將導致資金損失</string>
+    <string name="prepaid_picker_hint_2_2_b">如果使用的充值卡&lt;font color=red>面值不是%1$s人民幣&lt;/font>，將導致充值失敗，並且卡內余額丟失</string>
+    <string name="prepaid_picker_title">充值卡面值</string>
+    <string name="prepaid_picker_value_default">選擇</string>
+    <string name="prepaid_number_edit_hint">卡號：</string>
+    <string name="prepaid_password_edit_hint">密碼：</string>
+    <string name="prepaid_edit_limit">數字</string>
     <string name="prepaid_error_carrier">請選擇運營商</string>
     <string name="prepaid_error_denomination">請選擇壹個充值額度</string>
     <string name="prepaid_error_card_number">請輸入正確的充值卡號</string>
     <string name="prepaid_error_password">請輸入正確的充值卡密碼</string>
-    <string name="progress_submit_title">充值請求已提交</string>
+    <string name="prepaid_error_card_length">充值卡號或密碼位數錯誤</string>
+    <string name="progress_submit_title">驗證中，請求已提交</string>
     <string name="progress_submit_summary">正在充值：%1$s元</string>
-    <string name="progress_submit_hint_init">預計3分鍾內到帳，%1$s秒後自動查詢</string>
-    <string name="progress_submit_hint_query">預計3分鍾內到帳，%1$s秒後可以查詢</string>
+    <string name="progress_submit_hint">預計3分鍾內到帳</string>
+    <string name="btn_count_down_auto">%1$s秒自動查詢</string>
+    <string name="btn_count_down_wait">%1$s秒等候</string>
     <string name="btn_query">立即查詢</string>
     <string name="progress_querying">正在查詢支付結果…</string>
     <string name="progress_success_title">%1$s米幣充值成功</string>
@@ -195,9 +205,12 @@
     <string name="progress_error_network">網路鏈接失敗，請檢查網路狀況。</string>
     <string name="progress_error_invalid_number">您的卡號和密碼填寫有誤，請返回重新嘗試。</string>
     <string name="progress_error_waiting">還沒有到帳，過會兒再試:)</string>
-    <string name="progress_error_contact_server">還沒有到帳，請放心款不會丟失，請聯系合作公司神舟付客服電話：400-001-0195，提供本次充值流水號：%1$s</string>
+    <string name="progress_warning_contact_server">"還沒有到帳，請放心款不會丟失：
+1. 聯系神舟付客服：%1$s 
+2. 提供本次充值流水號：%2$s"</string>
     <string name="btn_back">返回</string>
-    <string name="btn_recharge_other">其他充值方式</string>
+    <string name="btn_recharge_other">繼續充值</string>
+    <string name="btn_call">撥打客服</string>
     <string name="recharge_notification">正在充值%1$s米幣</string>
     <string name="title_mili_center">米幣中心</string>
     <string name="title_recharge_record">充值記錄</string>

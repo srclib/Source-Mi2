@@ -80,6 +80,13 @@
     <string name="camera_setas_wallpaper">桌布</string>
     <string name="delete">刪除</string>
     <string name="confirm_delete">確認要刪除 %s項嗎？</string>
+    <string name="confirm_delete_album" formatted="false">確定要刪除 %s個相簿(包含 %s張圖片)嗎?</string>
+    <string name="confirm_delete_system_album">%s相簿為系統相簿, 確定刪除嗎?</string>
+    <string name="confirm_delete_folders_and_pictures">確定要刪除 %s嗎?</string>
+    <string name="confirm_delete_pictures">%s張圖片</string>
+    <string name="confirm_delete_folders_including" formatted="false">%s個目錄(包含 %s)</string>
+    <string name="confirm_delete_videos">%s個影片</string>
+    <string name="confirm_delete_including_null">0個檔案</string>
     <string name="cancel">取消</string>
     <string name="share">分享</string>
     <string name="select_all">全選</string>
@@ -199,7 +206,8 @@
     <string name="tab_wallpaper_text">桌面桌布</string>
     <string name="tab_all_text">同時設定</string>
     <string name="move_cloud_data">雲相簿的資料被移動到了: %s</string>
-    <string name="cloud_gallery_space_full">上傳失敗，雲空間已滿</string>
+    <string name="cloud_gallery_space_full">空間已滿，請刪除不需要的照片。</string>
+    <string name="cloud_gallery_recyclebin_full">回收站已滿，請去i.xiaomi.com清理回收站。</string>
     <string name="cloud_gallery_setting">雲相簿設定</string>
     <string name="sync_history_power_on">僅在充電時同步歷史圖片</string>
     <string name="sync_history_power_on_summary">建議開啟，否則將加速電量消耗</string>

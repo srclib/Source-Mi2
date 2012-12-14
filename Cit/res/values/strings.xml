@@ -229,7 +229,7 @@
     <string name="cit_tool_log_toast">Log已保存到%s</string>
     <string name="cit_tool_log_file_not_exist">%s文件不存在</string>
     <string name="cit_tool_log_generate_bugreport">正在生成bug报告...</string>
-    <string name="cit_tool_log_toast_generate_bugreport">正在生成bug报告，大概需要10秒钟</string>
+    <string name="cit_tool_log_toast_generate_bugreport">正在生成bug报告，大概需要1分钟</string>
     <string name="cit_tool_bluetooth">蓝牙测试工具</string>
     <string name="cit_tool_bluetooth_on">开启蓝牙</string>
     <string name="cit_tool_bluetooth_mode">进入蓝牙测试模式</string>

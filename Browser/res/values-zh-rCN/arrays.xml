@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="baidu">
+        <item>百度</item>
+        <item>baidu.com</item>
+        <item>http://m.baidu.com/favicon.ico</item>
+        <item>http://m.baidu.com/s?from=1269a&amp;amp;word={searchTerms}</item>
+        <item>GB2312</item>
+        <item>http://suggestion.baidu.com/su?p=3&amp;amp;wd={searchTerms}</item>
+    </string-array>
+    <string-array name="google">
+        <item>Google</item>
+        <item>google.com</item>
+        <item>http://www.google.com/favicon.ico</item>
+        <item>http://www5.1616.net/q.php?q={searchTerms}&amp;amp;chan=t3&amp;amp;id=8391&amp;amp;type=21&amp;amp;ie=UTF8</item>
+        <item>UTF-8</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;amp;language={language}</item>
+    </string-array>
     <string-array name="search_engines">
         <item>google</item>
         <item>baidu</item>
@@ -55,6 +71,14 @@
         <item>永不</item>
         <item>仅限Wi-Fi</item>
         <item>始终</item>
+    </string-array>
+    <string-array name="sogou">
+        <item>搜狗</item>
+        <item>sogou.com</item>
+        <item>http://wap.sogou.com/favicon.ico</item>
+        <item>http://wap.sogou.com/web/searchlist.jsp?keyword={searchTerms}&amp;amp;pid=xiaomiyidong</item>
+        <item>UTF-8</item>
+        <item>http://suggestion.baidu.com/su?p=3&amp;amp;wd={searchTerms}</item>
     </string-array>
     <string-array name="pref_ua_choices">
         <item>默认</item>

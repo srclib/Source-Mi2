@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hello">Hello World, DuoKanVideoPlayerActivity!</string>
     <string name="app_name">视频播放器</string>
+    <string name="temp_play_history_button_label">Show Play history</string>
     <string name="vp_VideoView_error_text_invalid_progressive_playback">抱歉，该视频不适合在此设备上播放</string>
     <string name="vp_VideoView_error_text_unknown">很抱歉，无法播放此视频</string>
     <string name="vp_VideoView_error_title">无法播放视频</string>
@@ -43,6 +43,10 @@
     <string name="toast_message_continue_play_hour">时</string>
     <string name="toast_message_continue_play_minute">分</string>
     <string name="toast_message_continue_play_second_and_play">秒处继续播放</string>
-    <string name="temp_play_history_button_label">Show Play history</string>
     <string name="vp_VideoView_error_network_not_available">未连接网络</string>
+    <string name="top_status_local_media">本地</string>
+    <string name="top_status_online_media">在线</string>
+    <string name="loading_video_netplay_label_v5">正在载入视频, 请稍候...</string>
+    <string name="buffering_video_netplay_label_v5">正在缓冲视频</string>
+    <string name="to_be_play_label_v5">即将播放</string>
 </resources>

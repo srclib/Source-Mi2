@@ -11,4 +11,7 @@
     <layout name="android_notification_template_big_picture">@android:layout/notification_template_big_picture</layout>
     <layout name="android_notification_template_big_text">@android:layout/notification_template_big_text</layout>
     <layout name="android_notification_template_inbox">@android:layout/notification_template_inbox</layout>
+    <layout name="android_preference_widget_checkbox">@android:layout/preference_widget_checkbox</layout>
+    <layout name="android_preference_widget_switch">@android:layout/preference_widget_switch</layout>
+    <layout name="android_preference_dialog_edittext">@android:layout/preference_dialog_edittext</layout>
 </resources>

@@ -7,7 +7,13 @@
     <string name="location_south">南 %sS</string>
     <string name="location_east">東 %s</string>
     <string name="location_west">西 %s</string>
+    <string name="menu_calibrate">校正</string>
+    <string name="dialog_title">取消校正</string>
+    <string name="dialog_content">指南針未校正成功，指向可能會有誤差，確定離開校正？</string>
     <string name="calibrate_success">校正成功</string>
+    <string name="user_guide_calibrate">可以透過選單來校正指南針</string>
+    <string name="toast_accuracy_low">"附近可能有磁場干擾
+請開啟選單重新【校正】指南針"</string>
     <string name="pressure">氣壓 %.1f百帕</string>
     <string name="altitude">海拔 %.1f公尺</string>
 </resources>
