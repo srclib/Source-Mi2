@@ -410,7 +410,7 @@
     <string name="summary_subtitle_paused_low_battery">电量不足</string>
     <string name="summary_subtitle_paused_photos_quota">超出照片配额</string>
     <string name="summary_subtitle_paused_roaming">正在漫游</string>
-    <string name="summary_subtitle_paused_need_wifi">正在等待建立 WiFi 连接</string>
+    <string name="summary_subtitle_paused_need_wifi">正在等待建立 WLAN 连接</string>
     <string name="summary_subtitle_paused_need_charger">充电时继续</string>
     <string name="summary_subtitle_paused_need_network">正在等待建立连接</string>
     <string name="summary_subtitle_paused_retry_format">将于 %s后重新尝试</string>
@@ -437,7 +437,7 @@
     <string name="toast_failed_auth">登录帐户时出现问题。</string>
     <string name="upload_state_queued" />
     <string name="upload_state_waiting_retry">正在等待重新尝试</string>
-    <string name="upload_state_waiting_wifi">正在等待建立 WiFi 连接</string>
+    <string name="upload_state_waiting_wifi">正在等待建立 WLAN 连接</string>
     <string name="upload_state_uploading">正在上传</string>
     <string name="upload_state_failed">失败</string>
     <string name="upload_state_completed">已完成</string>
@@ -447,7 +447,7 @@
     <string name="pause_state_need_charger">已暂停 - 充电时继续</string>
     <string name="pause_state_need_connectivity">已暂停 - 正在等待建立连接</string>
     <string name="pause_state_need_photos_quota">已暂停 - Picasa 网络相册配额不足</string>
-    <string name="pause_state_need_wifi">已暂停 - 正在等待建立 WiFi 连接</string>
+    <string name="pause_state_need_wifi">已暂停 - 正在等待建立 WLAN 连接</string>
     <string name="pause_state_roaming">已暂停 - 正在漫游</string>
     <string name="pause_state_retrying">正在等待重新尝试</string>
     <string name="retry_in_1min">1 分钟</string>
@@ -479,7 +479,7 @@
     <string name="notify_resolved">已上传完毕</string>
     <string name="notify_paused">上传已暂停</string>
     <string name="notify_activation_reminder">尚未激活“即时上传”</string>
-    <string name="dialog_first_wifi">大文件只能通过 WiFi 连接上传。</string>
+    <string name="dialog_first_wifi">大文件只能通过 WLAN 连接上传。</string>
     <string name="dialog_sync_all_scanning">正在扫描文件...</string>
     <string name="dialog_sync_all_preparing">正在准备上传 %1$d 张照片和 %2$d 段视频...</string>
     <string name="dialog_sync_all_found_none">没有需要上传的其他照片/视频。</string>
@@ -492,8 +492,8 @@
     <string name="preference_title_pause_all_uploads">暂停所有上传</string>
     <string name="preference_title_need_power">充电</string>
     <string name="preference_summary_need_power">仅在手机充电时上传。</string>
-    <string name="preference_title_need_wifi">Wi-Fi</string>
-    <string name="preference_summary_need_wifi">仅在建立 Wi-Fi 连接时上传。</string>
+    <string name="preference_title_need_wifi">WLAN</string>
+    <string name="preference_summary_need_wifi">仅在建立 WLAN 连接时上传。</string>
     <string name="preference_category_title_photos">照片</string>
     <string name="preference_title_photos_account">帐户</string>
     <string name="preference_title_photos_upload_connectivity">上传条件</string>
@@ -505,7 +505,7 @@
     <string name="preference_title_videos_upload_connectivity_summary">目前采用照片的连接设置。</string>
     <string name="preference_mobile_data_usage_for_photos_only">通过移动网络上传的内容仅限照片</string>
     <string name="preference_mobile_data_usage_for_all_media">通过移动网络上传照片和视频</string>
-    <string name="preference_mobile_data_usage_never">仅通过 Wi-Fi 上传照片和视频</string>
+    <string name="preference_mobile_data_usage_never">仅通过 WLAN 上传照片和视频</string>
     <string name="preference_category_title_about">关于</string>
     <string name="preference_title_camera_sync_version">“即时上传”版本</string>
     <string name="photos_upload_dimension_1600">推荐：1600 像素（用于分享、打印和屏幕保护程序）</string>

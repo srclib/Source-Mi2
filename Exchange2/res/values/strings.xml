@@ -19,7 +19,7 @@
     <string name="policy_dont_allow_storage_cards">"Don't allow storage cards"</string>
     <string name="policy_dont_allow_unsigned_apps">"Don't allow unsigned apps"</string>
     <string name="policy_dont_allow_unsigned_installers">"Don't allow unsigned app installers"</string>
-    <string name="policy_dont_allow_wifi">"Don't allow Wi-Fi"</string>
+    <string name="policy_dont_allow_wifi">"Don't allow WLAN"</string>
     <string name="policy_dont_allow_text_messaging">"Don't allow text messaging"</string>
     <string name="policy_dont_allow_pop_imap">"Don't allow POP3 or IMAP accounts"</string>
     <string name="policy_dont_allow_irda">"Don't allow infrared communications"</string>

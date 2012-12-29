@@ -394,7 +394,7 @@
 
 按下 [啟用] 後，請聽取手機啟用說明。"</string>
     <string name="ota_skip_activation_dialog_title">是否略過啟用？</string>
-    <string name="ota_skip_activation_dialog_message">如果您略過啟動步驟，就無法撥打電話或連接到行動數據網路（不過您可以連接到WLAN網路）。如果您不啟動手機，每次開機時都會收到啟動提示。</string>
+    <string name="ota_skip_activation_dialog_message" />
     <string name="ota_skip_activation_dialog_skip_label">略過</string>
     <string name="ota_activate">啟用</string>
     <string name="ota_title_activate_success">手機已啟用。</string>
@@ -435,7 +435,7 @@
     <string name="sip_receive_calls">接聽來電</string>
     <string name="sip_receive_calls_summary">會減少電池電量</string>
     <string name="sip_call_options_title">使用網路電話</string>
-    <string name="sip_call_options_wifi_only_title">使用網際網路通話（僅限WLAN）</string>
+    <string name="sip_call_options_wifi_only_title">撥打網路電話 (僅限 WLAN)</string>
     <string name="sip_call_options_entry_1">數據網路可用時，適用於所有通話</string>
     <string name="sip_call_options_entry_2">僅適用於網路電話</string>
     <string name="sip_call_options_entry_3">每次通話都詢問</string>
@@ -465,7 +465,7 @@
     <string name="registration_status_still_trying">仍在嘗試中...</string>
     <string name="registration_status_not_receiving">無法接聽電話。</string>
     <string name="registration_status_no_data">因沒有網際網路連線，帳戶的註冊作業已停止。</string>
-    <string name="registration_status_no_wifi_data">因無WLAN連接，已停止註冊帳號。</string>
+    <string name="registration_status_no_wifi_data">找不到 WLAN 連線，帳戶註冊作業已中止。</string>
     <string name="registration_status_not_running">帳戶註冊失敗。</string>
     <string name="registration_status_done">可以接聽電話。</string>
     <string name="registration_status_failed_try_later">帳戶註冊失敗：(%s)；將於稍後重試</string>
@@ -495,9 +495,9 @@
     <string name="empty_alert">「%s」為必填欄位，不得留空。</string>
     <string name="not_a_valid_port">通訊埠號碼必須介於 1000 到 65534 間。</string>
     <string name="no_internet_available_title">沒有網際網路連線</string>
-    <string name="no_wifi_available_title">無WLAN連接</string>
+    <string name="no_wifi_available_title">沒有 WLAN 連線</string>
     <string name="no_internet_available">如要撥打網路電話，請先檢查您的網際網路連線。</string>
-    <string name="no_wifi_available">您必須連接到WLAN網路才能使用網際網路電話（使用「無線和網路設定」）</string>
+    <string name="no_wifi_available">您必須連上 WLAN 網路才能使用網路電話 (使用 [無線網路與網路設定])。</string>
     <string name="no_voip">不支援網路電話</string>
     <string name="sip_system_decide">自動</string>
     <string name="sip_always_send_keepalive">一律傳送</string>

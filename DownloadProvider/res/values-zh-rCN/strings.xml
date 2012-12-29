@@ -20,12 +20,12 @@
     <string name="notification_filename_extras">" 还有 %d 项"</string>
     <string name="notification_download_complete">下载已完成。</string>
     <string name="notification_download_failed">下载失败。</string>
-    <string name="notification_need_wifi_for_size">文件过大，需要通过 Wi-Fi 下载。</string>
+    <string name="notification_need_wifi_for_size">文件过大，需要通过 WLAN 下载。</string>
     <string name="notification_paused_in_background">已在后台暂停。</string>
     <string name="wifi_required_title">文件太大，不适于通过运营商网络下载</string>
-    <string name="wifi_required_body" formatted="false">"您必须使用 Wi-Fi 完成此内容 (%s ) 的下载。
+    <string name="wifi_required_body" formatted="false">"您必须使用 WLAN 完成此内容 (%s ) 的下载。
 
-触摸“%s ”可在下次连接到 Wi-Fi 网络时开始下载此内容。"</string>
+触摸“%s ”可在下次连接到 WLAN 网络时开始下载此内容〠"</string>
     <string name="wifi_recommended_title">流量提醒</string>
     <string name="wifi_recommended_body" formatted="false">"即将使用运营商网络下载：
 

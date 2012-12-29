@@ -429,7 +429,7 @@ CC: %4$s
     <string name="summary_subtitle_paused_low_battery">low battery</string>
     <string name="summary_subtitle_paused_photos_quota">exceeded photos quota</string>
     <string name="summary_subtitle_paused_roaming">roaming</string>
-    <string name="summary_subtitle_paused_need_wifi">waiting for WiFi</string>
+    <string name="summary_subtitle_paused_need_wifi">waiting for WLAN</string>
     <string name="summary_subtitle_paused_need_charger">delayed until charging</string>
     <string name="summary_subtitle_paused_need_network">waiting for connection</string>
     <string name="summary_subtitle_paused_retry_format">retrying in %s</string>
@@ -456,7 +456,7 @@ CC: %4$s
     <string name="toast_failed_auth">There was a problem signing into your account.</string>
     <string name="upload_state_queued" />
     <string name="upload_state_waiting_retry">Waiting to retry</string>
-    <string name="upload_state_waiting_wifi">Waiting for WiFi</string>
+    <string name="upload_state_waiting_wifi">Waiting for WLAN</string>
     <string name="upload_state_uploading">Uploading</string>
     <string name="upload_state_failed">Failed</string>
     <string name="upload_state_completed">Completed</string>
@@ -498,7 +498,7 @@ CC: %4$s
     <string name="notify_resolved">Uploads finished</string>
     <string name="notify_paused">Uploads paused</string>
     <string name="notify_activation_reminder">"Instant Upload hasn't been activated yet"</string>
-    <string name="dialog_first_wifi">Large files will be uploaded over a WiFi connection only.</string>
+    <string name="dialog_first_wifi">Large files will be uploaded over a WLAN connection only.</string>
     <string name="dialog_sync_all_scanning">Scanning for files...</string>
     <string name="dialog_sync_all_preparing">Preparing %1$d photos and %2$d videos for upload...</string>
     <string name="dialog_sync_all_found_none">No additional photos/videos need to be uploaded.</string>
@@ -511,8 +511,8 @@ CC: %4$s
     <string name="preference_title_pause_all_uploads">Pause all uploads</string>
     <string name="preference_title_need_power">Power</string>
     <string name="preference_summary_need_power">Upload only when the phone is being charged.</string>
-    <string name="preference_title_need_wifi">Wi-Fi</string>
-    <string name="preference_summary_need_wifi">Upload only when Wi-Fi is available.</string>
+    <string name="preference_title_need_wifi">WLAN</string>
+    <string name="preference_summary_need_wifi">Upload only when WLAN is available.</string>
     <string name="preference_category_title_photos">Photos</string>
     <string name="preference_title_photos_account">Account</string>
     <string name="preference_title_photos_upload_connectivity">Upload conditions</string>
@@ -524,7 +524,7 @@ CC: %4$s
     <string name="preference_title_videos_upload_connectivity_summary">Photos connectivity settings are used for now.</string>
     <string name="preference_mobile_data_usage_for_photos_only">Only photos via mobile networks</string>
     <string name="preference_mobile_data_usage_for_all_media">Photos &amp; videos via mobile networks</string>
-    <string name="preference_mobile_data_usage_never">Photos &amp; videos via Wi-Fi only</string>
+    <string name="preference_mobile_data_usage_never">Photos &amp; videos via WLAN only</string>
     <string name="preference_category_title_about">About</string>
     <string name="preference_title_camera_sync_version">Instant Upload Version</string>
     <string name="photos_upload_dimension_1600">Recommended: 1600 pixels (for sharing, prints and screensavers)</string>

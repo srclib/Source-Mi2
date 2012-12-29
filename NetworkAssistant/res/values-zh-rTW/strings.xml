@@ -140,4 +140,5 @@
     <string name="overseas_menu_traffic_settings">流量限制</string>
     <string name="overseas_menu_traffic_adjust">手動校正</string>
     <string name="about">關于</string>
+    <string name="fire_wall_is_closed">您還未開啟防火牆</string>
 </resources>

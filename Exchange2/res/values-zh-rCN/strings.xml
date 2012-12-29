@@ -18,7 +18,7 @@
     <string name="policy_dont_allow_storage_cards">不允许使用存储卡</string>
     <string name="policy_dont_allow_unsigned_apps">不允许安装未签名的应用</string>
     <string name="policy_dont_allow_unsigned_installers">不允许通过未签名的安装程序来安装应用</string>
-    <string name="policy_dont_allow_wifi">不允许使用 Wi-Fi</string>
+    <string name="policy_dont_allow_wifi">不允许使用 WLAN</string>
     <string name="policy_dont_allow_text_messaging">不允许使用短信功能</string>
     <string name="policy_dont_allow_pop_imap">不允许使用 POP3 或 IMAP 帐户</string>
     <string name="policy_dont_allow_irda">不允许红外通信</string>

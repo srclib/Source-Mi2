@@ -256,7 +256,7 @@
     <string name="airplane_mode">Airplane mode</string>
     <string name="radio_controls_title">More…</string>
     <string name="wireless_networks_settings_title">Wireless &amp; networks</string>
-    <string name="radio_controls_summary">Manage WLAN, bluetooth, airplane mode, mobile networks, &amp; VPNs</string>
+    <string name="radio_controls_summary">Manage WLAN, Bluetooth, airplane mode, mobile networks, &amp; VPNs</string>
     <string name="roaming">Data roaming</string>
     <string name="roaming_enable">Connect to data services when roaming</string>
     <string name="roaming_disable">Connect to data services when roaming</string>
@@ -476,20 +476,20 @@ Just bring the devices together (typically back to back) and then touch your scr
     <string name="wifi_settings_category">WLAN settings</string>
     <string name="wifi_settings_title">WLAN</string>
     <string name="wifi_settings_summary">Set up &amp; manage wireless access points</string>
-    <string name="wifi_setup_wizard_title">Select Wi-Fi</string>
-    <string name="wifi_starting">Turning WLAN On…</string>
-    <string name="wifi_stopping">Turning WLAN Off…</string>
+    <string name="wifi_setup_wizard_title">Select WLAN</string>
+    <string name="wifi_starting">Turning WLAN on…</string>
+    <string name="wifi_stopping">Turning off WLAN…</string>
     <string name="wifi_error">Error</string>
     <string name="wifi_in_airplane_mode">In Airplane mode</string>
     <string name="wifi_fail_to_scan">"Can't scan for networks"</string>
     <string name="wifi_notify_open_networks">Network notification</string>
     <string name="wifi_notify_open_networks_summary">Notify me when an open network is available</string>
     <string name="wifi_poor_network_detection">Avoid poor connections</string>
-    <string name="wifi_poor_network_detection_summary">"Don't use a Wi-Fi network unless it has a good Internet connection"</string>
-    <string name="wifi_setting_sleep_policy_title">Keep WLAN on during sleep mode</string>
+    <string name="wifi_poor_network_detection_summary">"Don't use a WLAN network unless it has a good Internet connection"</string>
+    <string name="wifi_setting_sleep_policy_title">Keep WLAN on during sleep</string>
     <string name="wifi_setting_sleep_policy_error">There was a problem changing the setting</string>
     <string name="wifi_add_network">Add network</string>
-    <string name="wifi_access_points">WLAN Networks</string>
+    <string name="wifi_access_points">WLAN networks</string>
     <string name="wifi_menu_wps_pbc">WPS Push Button</string>
     <string name="wifi_menu_wps_pin">WPS Pin Entry</string>
     <string name="wifi_menu_p2p">WLAN Direct</string>
@@ -499,17 +499,17 @@ Just bring the devices together (typically back to back) and then touch your scr
     <string name="wifi_menu_forget">Forget network</string>
     <string name="wifi_menu_modify">Modify network</string>
     <string name="wifi_empty_list_wifi_off">To see available networks, turn WLAN on.</string>
-    <string name="wifi_empty_list_wifi_on">Searching for Wi-Fi networks…</string>
+    <string name="wifi_empty_list_wifi_on">Searching for WLAN networks…</string>
     <string name="wifi_other_network">Other network…</string>
     <string name="wifi_more">More</string>
     <string name="wifi_setup_wps">Automatic setup (WPS)</string>
     <string name="wifi_show_advanced">Show advanced options</string>
-    <string name="wifi_wps_setup_title">Wi-Fi Protected Setup</string>
+    <string name="wifi_wps_setup_title">WLAN Protected Setup</string>
     <string name="wifi_wps_setup_msg">Starting WPS…</string>
-    <string name="wifi_wps_onstart_pbc">Press the Wi-Fi Protected Setup button on your router. It may be called \"WPS\" or contain this symbol:</string>
-    <string name="wifi_wps_onstart_pin">Enter pin %1$s on your Wi-Fi router. The setup can take upto two minutes to complete.</string>
+    <string name="wifi_wps_onstart_pbc">Press the WLAN Protected Setup button on your router. It may be called \"WPS\" or contain this symbol:</string>
+    <string name="wifi_wps_onstart_pin">Enter pin %1$s on your WLAN router. The setup can take upto two minutes to complete.</string>
     <string name="wifi_wps_complete">WPS succeeded. Connecting to the network…</string>
-    <string name="wifi_wps_connected">Connected to Wi-Fi network %s</string>
+    <string name="wifi_wps_connected">Connected to WLAN network %s</string>
     <string name="wifi_wps_in_progress">WPS is already in progress and can take upto two minutes to complete</string>
     <string name="wifi_wps_failed_generic">WPS failed. Please try again in a few minutes.</string>
     <string name="wifi_wps_failed_wep">The wireless router security setting (WEP) is not supported</string>
@@ -563,7 +563,7 @@ Just bring the devices together (typically back to back) and then touch your scr
     <string name="wifi_save">Save</string>
     <string name="wifi_failed_save_message">Failed to save network</string>
     <string name="wifi_cancel">Cancel</string>
-    <string name="wifi_advanced_titlebar">Advanced settings</string>
+    <string name="wifi_advanced_titlebar">Advanced WLAN</string>
     <string name="wifi_setting_frequency_band_title">WLAN frequency band</string>
     <string name="wifi_setting_frequency_band_summary">Specify the frequency range of operation</string>
     <string name="wifi_setting_frequency_band_error">There was a problem setting the frequency band.</string>
@@ -604,8 +604,8 @@ Just bring the devices together (typically back to back) and then touch your scr
     <string name="wifi_tether_checkbox_text">Portable WLAN hotspot</string>
     <string name="wifi_tether_enabled_subtext">Portable hotspot %1$s active</string>
     <string name="wifi_tether_failed_subtext">Portable WLAN hotspot error</string>
-    <string name="wifi_tether_configure_ap_text">Configure WLAN hotspot</string>
-    <string name="wifi_tether_configure_subtext">%1$s %2$s Portable WLAN Hotspot</string>
+    <string name="wifi_tether_configure_ap_text">Set up WLAN hotspot</string>
+    <string name="wifi_tether_configure_subtext">%1$s %2$s portable WLAN hotspot</string>
     <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
     <string name="testing_wifi_info">WLAN information</string>
     <string name="disableNetwork">disableNetwork</string>
@@ -616,7 +616,7 @@ Just bring the devices together (typically back to back) and then touch your scr
     <string name="wifi_api_test">WLAN API</string>
     <string name="wifi_status_test">WLAN status</string>
     <string name="wifi_update">Refresh stats</string>
-    <string name="wifi_state_label">WLAN state</string>
+    <string name="wifi_state_label">WLAN state:</string>
     <string name="network_state_label">Network state:</string>
     <string name="supplicant_state_label">Supplicant state:</string>
     <string name="rssi_label">RSSI:</string>
@@ -918,9 +918,9 @@ To clear music, pictures, and other user data, the "<b>USB storage</b> needs to 
     <string name="tethering_help_button_text">Help</string>
     <string name="network_settings_title">Mobile networks</string>
     <string name="location_title">My Location</string>
-    <string name="location_network_based">Network based location service</string>
-    <string name="location_neighborhood_level">Let apps use data from sources such as WLAN and mobile networks to determine your approximate location</string>
-    <string name="location_neighborhood_level_wifi">Location determined via WLAN</string>
+    <string name="location_network_based">"Google's location service"</string>
+    <string name="location_neighborhood_level">Allow anonymous location data to be sent to Google. Also allow permitted apps to use data from sources such as WLAN and mobile networks to determine your approximate location.</string>
+    <string name="location_neighborhood_level_wifi">Location determined by WLAN</string>
     <string name="location_gps">GPS satellites</string>
     <string name="location_street_level">Let apps use GPS to pinpoint your location</string>
     <string name="assisted_gps">Use assisted GPS</string>
@@ -1322,7 +1322,7 @@ Some apps may not work until updated by their developers."</string>
     <string name="battery_desc_display">Battery used by the display and backlight</string>
     <string name="battery_sugg_display">Reduce the screen brightness and/or screen timeout</string>
     <string name="battery_desc_wifi">Battery used by WLAN</string>
-    <string name="battery_sugg_wifi">Turn off WLAN when no connection is available or when it is not in use</string>
+    <string name="battery_sugg_wifi">"Turn off WLAN when not using it or when it isn't available"</string>
     <string name="battery_desc_bluetooth">Battery used by Bluetooth</string>
     <string name="battery_sugg_bluetooth_basic">"Turn off Bluetooth when you aren't using it"</string>
     <string name="battery_sugg_bluetooth_headset">Try connecting to a different Bluetooth device</string>
@@ -1427,7 +1427,7 @@ Some apps may not work until updated by their developers."</string>
     <string name="local_backup_password_toast_confirmation_mismatch">"New password and confirmation don't match"</string>
     <string name="local_backup_password_toast_validation_failure">Failure setting backup password</string>
     <string name="backup_erase_dialog_title" />
-    <string name="backup_erase_dialog_message">Stop backing up your WLAN passwords, bookmarks, other settings, app data, plus erase all copies on Google servers?</string>
+    <string name="backup_erase_dialog_message">Stop backing up your WLAN passwords, bookmarks, other settings, and app data, plus erase all copies on Google servers?</string>
     <string name="device_admin_settings_title">Device administration settings</string>
     <string name="active_device_admin_msg">Device administrator</string>
     <string name="remove_device_admin">Deactivate</string>
@@ -1468,11 +1468,11 @@ Some apps may not work until updated by their developers."</string>
     <string name="wifi_setup_status_connecting">Connecting…</string>
     <string name="wifi_setup_status_proceed_to_next">Go to the next step</string>
     <string name="wifi_setup_status_eap_not_supported">"EAP isn't supported."</string>
-    <string name="wifi_setup_eap_not_supported">Cannot configure an EAP WLAN connection during setup. After setup, go to Settings > Wireless &amp; Networks.</string>
+    <string name="wifi_setup_eap_not_supported">"You can't configure an EAP WLAN connection during setup. After setup, you can do that in Settings > Wireless &amp; networks\u0090"</string>
     <string name="wifi_setup_description_connecting">Connecting can take a few minutes…</string>
-    <string name="wifi_setup_description_connected">Press <b>Next</b>" to continue with setup.
+    <string name="wifi_setup_description_connected">Touch <b>Next</b>" to continue with setup.
 
-Press "<b>Back</b> to connect to a different WLAN network.</string>
+Touch "<b>Back</b> to connect to a different WLAN network.</string>
     <string name="time_zone_auto_stub">Select Time Zone</string>
     <string name="accessibility_sync_enabled">Sync enabled</string>
     <string name="accessibility_sync_disabled">Sync disabled</string>
@@ -1606,10 +1606,12 @@ A Google approach to syncing data to allow access to your contacts, appointments
     <string name="data_usage_enable_4g">4G data</string>
     <string name="data_usage_app_settings">View app settings</string>
     <string name="data_usage_app_restrict_background">Restrict background data</string>
-    <string name="data_usage_app_restrict_background_summary">Disable background data on mobile data network only. WLAN will be used if available.</string>
+    <string name="data_usage_app_restrict_background_summary">Disable background data on mobile networks. Non-mobile networks will be used if available.</string>
     <string name="data_usage_app_restrict_background_summary_disabled">To restrict background data for this app, first set a mobile data limit.</string>
     <string name="data_usage_app_restrict_dialog_title">Restrict background data?</string>
-    <string name="data_usage_app_restrict_dialog">Adjust more appropriate data usage controls in the settings available within the app.</string>
+    <string name="data_usage_app_restrict_dialog">"This feature may cause an app that depends on background data to stop working when only mobile networks are available.
+
+You can find more appropriate data usage controls in the settings available within the app."</string>
     <string name="data_usage_restrict_denied_dialog">"Restricting background data is possible only when you've set a mobile data limit."</string>
     <string name="data_usage_auto_sync_on_dialog_title">Turn auto-sync data on?</string>
     <string name="data_usage_auto_sync_on_dialog">"Any changes you make to your accounts on the web will be automatically copied to your phone.
@@ -1629,7 +1631,7 @@ To choose which kinds of information to sync within each account, go to Settings
 
 Since data usage is measured by your phone, and your carrier may account for usage differently, consider using a conservative limit."</string>
     <string name="data_usage_restrict_background_title">Restrict background data?</string>
-    <string name="data_usage_restrict_background">If background mobile data is restricted, some apps and services wontt work unless connected to a WLAN network.</string>
+    <string name="data_usage_restrict_background">"If you restrict background mobile data, some apps and services won't work unless you're connected to a WLAN network."</string>
     <string name="data_usage_sweep_warning"><font size="21">^1</font> <font size="9">^2</font>"
 "<font size="12">warning</font></string>
     <string name="data_usage_sweep_limit"><font size="21">^1</font> <font size="9">^2</font>"
@@ -1639,10 +1641,10 @@ Since data usage is measured by your phone, and your carrier may account for usa
     <string name="data_usage_total_during_range">%2$s: about %1$s used.</string>
     <string name="data_usage_total_during_range_mobile">"%2$s: about %1$s used, as measured by your phone. Your carrier's data usage accounting may differ."</string>
     <string name="data_usage_metered_title">Mobile hotspots</string>
-    <string name="data_usage_metered_body">Select the Wi-Fi networks which are mobile hotspots. Apps can be restricted from using these networks when in the background. Apps may also warn before using these networks for large downloads.</string>
+    <string name="data_usage_metered_body">Select the WLAN networks which are mobile hotspots. Apps can be restricted from using these networks when in the background. Apps may also warn before using these networks for large downloads.</string>
     <string name="data_usage_metered_mobile">Mobile networks</string>
-    <string name="data_usage_metered_wifi">Wi-Fi networks</string>
-    <string name="data_usage_metered_wifi_disabled">To select mobile hotspots, turn Wi-Fi on.</string>
+    <string name="data_usage_metered_wifi">WLAN networks</string>
+    <string name="data_usage_metered_wifi_disabled">To select mobile hotspots, turn WLAN on.</string>
     <string name="cryptkeeper_emergency_call">Emergency call</string>
     <string name="cryptkeeper_return_to_call">Return to call</string>
     <string name="vpn_name">Name</string>

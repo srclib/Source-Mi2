@@ -133,7 +133,7 @@
     <string name="install_title">安裝應用程式</string>
     <string name="install_no_network_description">當前無網路連線，請連接後重試</string>
     <string name="install_on_data_description">您在使用數據網路，下載可能產生流量費用，是否立即安裝%1$s等%2$s款應用？</string>
-    <string name="install_only_on_wifi_description">您在下載管理中開啟了『僅在WLAN下下載』設定，暫時無法線上安裝應用程式，請連接WLAN網路後重試</string>
+    <string name="install_only_on_wifi_description">您在下載管理中開啟了『僅在WLAN下下載』設定，暫時無法線上安裝應用程式，請連接WLAN網路後重\u0098</string>
     <string name="install_all_description">是否立即安裝%1$s等%2$s款應用程式？</string>
     <string name="install_btn_cancel">取消</string>
     <string name="install_btn_continue">繼續</string>

@@ -498,7 +498,7 @@
     <string name="theme_update_complete_content_fail">，%1$d個未成功</string>
     <string name="resource_get_auth_missing">該主題不是從官方市場下載，請在官方市場下載同類主題</string>
     <string name="resource_no_result">無結果</string>
-    <string name="status_bar_toggle_drive_mode">開車糢式</string>
+    <string name="status_bar_toggle_drive_mode">行車模式</string>
     <string name="status_bar_toggle_auto_brightness">自動亮度</string>
     <string name="status_bar_toggle_ring">響鈴</string>
     <string name="status_bar_toggle_ringtone">鈴聲</string>

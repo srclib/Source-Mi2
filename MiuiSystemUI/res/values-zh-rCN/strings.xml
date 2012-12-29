@@ -23,7 +23,7 @@
 只能使用随附的充电器充电。"</string>
     <string name="battery_low_why">电量使用情况</string>
     <string name="status_bar_settings_settings_button">设置</string>
-    <string name="status_bar_settings_wifi_button">Wi-Fi</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
     <string name="status_bar_settings_airplane">飞行模式</string>
     <string name="status_bar_settings_auto_rotation">自动旋转屏幕</string>
     <string name="status_bar_settings_mute_label">静音</string>
@@ -80,11 +80,11 @@
     <string name="accessibility_data_two_bars">数据信号强度为两格。</string>
     <string name="accessibility_data_three_bars">数据信号强度为三格。</string>
     <string name="accessibility_data_signal_full">数据信号满格。</string>
-    <string name="accessibility_no_wifi">没有 Wi-Fi 信号。</string>
-    <string name="accessibility_wifi_one_bar">Wi-Fi 信号强度为 1 格。</string>
-    <string name="accessibility_wifi_two_bars">Wi-Fi 信号强度为 2 格。</string>
-    <string name="accessibility_wifi_three_bars">Wi-Fi 信号强度为 3 格。</string>
-    <string name="accessibility_wifi_signal_full">WiFi 信号满格。</string>
+    <string name="accessibility_no_wifi">没有 WLAN 信号。</string>
+    <string name="accessibility_wifi_one_bar">WLAN 信号强度为 1 格。</string>
+    <string name="accessibility_wifi_two_bars">WLAN 信号强度为 2 格。</string>
+    <string name="accessibility_wifi_three_bars">WLAN 信号强度为 3 格。</string>
+    <string name="accessibility_wifi_signal_full">WLAN 信号满格。</string>
     <string name="accessibility_no_wimax">无 WiMAX 信号。</string>
     <string name="accessibility_wimax_one_bar">WiMAX 信号强度为一格。</string>
     <string name="accessibility_wimax_two_bars">WiMAX 信号强度为两格。</string>
@@ -96,7 +96,7 @@
     <string name="accessibility_data_connection_4g">4G</string>
     <string name="accessibility_data_connection_cdma">CDMA</string>
     <string name="accessibility_data_connection_edge">EDGE</string>
-    <string name="accessibility_data_connection_wifi">Wi-Fi</string>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
     <string name="accessibility_no_sim">无 SIM 卡。</string>
     <string name="accessibility_bluetooth_tether">蓝牙共享网络。</string>
     <string name="accessibility_airplane_mode">飞行模式。</string>
@@ -118,7 +118,7 @@
 如果您重新启用数据，运营商可能会收取相应的费用。"</string>
     <string name="data_usage_disabled_dialog_enable">重新启用数据连接</string>
     <string name="status_bar_settings_signal_meter_disconnected">未连接互联网</string>
-    <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi 已连接</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">WLAN 已连接</string>
     <string name="gps_notification_searching_text">正在搜索 GPS</string>
     <string name="gps_notification_found_text">已通过 GPS 确定位置</string>
     <string name="accessibility_clear_all">清除所有通知。</string>
@@ -141,6 +141,7 @@
     <string name="status_bar_time_format_12_simple">h:mm</string>
     <string name="status_bar_date_format">"E
 yyyy-M-d"</string>
+    <string name="status_bar_recent_memory_info">%1$s 可用 / %2$s</string>
     <string name="usb_mode_notification">USB数据存储</string>
     <string name="usb_mode_dont_ask">下次不再询问</string>
     <string name="usb_mode_mount_storage_title">是否打开USB存储？</string>

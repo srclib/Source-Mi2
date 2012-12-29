@@ -20,12 +20,12 @@
     <string name="notification_filename_extras">" and %d more"</string>
     <string name="notification_download_complete">Download complete.</string>
     <string name="notification_download_failed">Download unsuccessful.</string>
-    <string name="notification_need_wifi_for_size">Download size requires Wi-Fi.</string>
+    <string name="notification_need_wifi_for_size">Download size requires WLAN.</string>
     <string name="notification_paused_in_background">Paused in background.</string>
     <string name="wifi_required_title">Download too large for operator network</string>
-    <string name="wifi_required_body" formatted="false">"You must use Wi-Fi to complete this %s download. 
+    <string name="wifi_required_body" formatted="false">"You must use WLAN to complete this %s download. 
 
-Touch %s to start this download the next time you're connected to a Wi-Fi network."</string>
+Touch %s to start this download the next time you're connected to a WLAN network."</string>
     <string name="wifi_recommended_title">Traffic reminder</string>
     <string name="wifi_recommended_body" formatted="false">"About to download via the operator nextwork：
 
